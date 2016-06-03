@@ -22,3 +22,8 @@ The Cloud9 IDE team
 
 Visit http://docs.c9.io for support, or to learn more about using Cloud9 IDE. 
 To watch some training videos, visit http://www.youtube.com/user/c9ide
+http://retaildesignblog.net/tag/form-us-with-love/
+https://www.pinterest.com/sunbrella/our-fabrics/
+http://rowansm.tumblr.com/portfolio
+https://www.pinterest.com/pin/489344315731435408/
+image credit (^^^^)
