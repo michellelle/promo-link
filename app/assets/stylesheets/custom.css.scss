@@ -1,3 +1,5 @@
+@import "font-awesome-sprockets";
+@import "font-awesome";
 @import "bootstrap-sprockets";
 @import "bootstrap";
 
@@ -24,24 +26,29 @@ background: linear-gradient(to left, #E0EAFC , #CFDEF3); /* W3C, IE 10+/ Edge, F
     height: 100%;
     margin-bottom: 10px;
 }
-/* Add an blue color to all icons and set the font-size */
+/* Add a blue color to all icons and set the font-size */
 .logo {
     color: #fff6cc;
     font-size: 200px;
 }
 
+.logo-small {
+    color: #00001a;
+    font-size: 50px;
+}
+
  /*what customers say*/ 
 .carousel-control.right, .carousel-control.left {
     background-image: none;
-    color: #001a4d;
+    color: #00001a;
 }
 
 .carousel-indicators li {
-    border-color: #001a4d;
+    border-color: #00001a;
 }
 
 .carousel-indicators li.active {
-    background-color: #001a4d;
+    background-color: #00001a;
 }
 
 .item h4 {
@@ -50,8 +57,19 @@ background: linear-gradient(to left, #E0EAFC , #CFDEF3); /* W3C, IE 10+/ Edge, F
     font-weight: 400;
     font-style: italic;
     margin: 70px 0;
+    color: #00001a;
 }
 
 .item span {
     font-style: normal;
+     color: #00001a;
+}
+
+.item h3 {
+    font-size: 19px;
+    line-height: 1.375em;
+    font-weight: 400;
+    font-style: italic;
+    margin: 70px 0;
+    color: #00001a;
 }
