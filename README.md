@@ -26,4 +26,4 @@ http://retaildesignblog.net/tag/form-us-with-love/
 https://www.pinterest.com/sunbrella/our-fabrics/
 http://rowansm.tumblr.com/portfolio
 https://www.pinterest.com/pin/489344315731435408/
-image credit (^^^^)
+image credit (^^^^)# promo
